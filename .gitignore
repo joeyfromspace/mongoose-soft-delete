@@ -1,0 +1,7 @@
+node_modules/
+*.log
+.idea/
+.env
+.elasticbeanstalk/
+dump.rdb
+.DS_Store

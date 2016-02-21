@@ -1,0 +1,34 @@
+{
+  "name": "mongoose-soft-delete",
+  "version": "0.1.0",
+  "description": "Mongoose middleware that hides rather than delete documents.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeyfromspace/mongoose-soft-delete.git"
+  },
+  "keywords": [
+    "mongoose",
+    "mongodb",
+    "middleware",
+    "plugin",
+    "remove"
+  ],
+  "author": "Joey Lappin (SWARM)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joeyfromspace/mongoose-soft-delete/issues"
+  },
+  "homepage": "https://github.com/joeyfromspace/mongoose-soft-delete#readme",
+  "dependencies": {
+    "underscore": "1.8.3"
+  },
+  "devDependencies": {
+    "chai": "3.5.0",
+    "faker": "3.0.1",
+    "mongoose": "4.4.4"
+  }
+}
