@@ -1,5 +1,5 @@
 {
-  "name": "mongoose-soft-delete",
+  "name": "mongoose-softer-delete",
   "version": "0.1.0",
   "description": "Mongoose middleware that hides rather than delete documents.",
   "main": "index.js",
